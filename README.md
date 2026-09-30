@@ -1,4 +1,3 @@
-# seoul-bike-sharing-demand-prediction using python
 # Seoul Bike Sharing Demand Prediction using Python
 
 ##  Project Overview
